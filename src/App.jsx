@@ -15,7 +15,6 @@ import Men from './pages/Men'
 import Contact from './pages/Contact'
 import Login from './pages/Login'
 import Order from './pages/Order'
-import FAQ from './pages/Faq'
 import Term from './pages/term'
 
 export const WishlistContext = createContext()
@@ -246,10 +245,7 @@ function App() {
                     element={<Order />}
                   />
 
-                  <Route
-                    path="/faq"
-                    element={<FAQ />}
-                  />
+                  
 
                   <Route
                     path="/term"

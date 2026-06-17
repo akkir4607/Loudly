@@ -21,7 +21,6 @@ const Footer = () => {
           <ul className="footer-links">
             <li><a href="/contact">Contact Us</a></li>
             <li><a href="/order">My Order</a></li>
-            <li><a href="/faq">FAQs</a></li>
             
           </ul>
           <ul className="footer-links footer-links-secondary">
@@ -39,7 +38,6 @@ const Footer = () => {
             <li><a href="/privacy-policy">PRIVACY POLICY</a></li>
             <li><a href="/term">TERMS & CONDITIONS</a></li>
             <li><a href="/shipping-returns">SHIPPING & RETURNS</a></li>
-            <li><a href="/faq">FAQS</a></li>
           </ul>
         </div>
 
