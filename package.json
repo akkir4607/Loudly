@@ -10,14 +10,16 @@
   },
   "dependencies": {
     "@emailjs/browser": "^4.4.1",
-    "firebase": "^10.13.1",
+    "firebase": "^12.15.0",
     "lucide-react": "^0.441.0",
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
     "react-router-dom": "^6.26.2"
   },
   "devDependencies": {
+    "@tailwindcss/vite": "^4.3.1",
     "@vitejs/plugin-react": "^4.3.1",
-    "vite": "^5.4.8"
+    "tailwindcss": "^4.3.1",
+    "vite": "^8.0.16"
   }
 }
