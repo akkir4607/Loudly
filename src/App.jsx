@@ -15,7 +15,7 @@ import Men from './pages/Men'
 import Contact from './pages/Contact'
 import Login from './pages/Login'
 import Order from './pages/Order'
-import Term from './pages/Term'
+import Term from './pages/term'
 
 export const WishlistContext = createContext()
 export const CartContext = createContext()
